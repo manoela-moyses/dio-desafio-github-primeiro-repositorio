@@ -1,0 +1,13 @@
+
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+- git init   --> a gente vai usar o git init para poder iniciar o repositório do Git
+- git add    --> para poder mover arquivos e começar de fato dar início ao versionamento a gente vai usar o git add 
+- git commit --> a gente vai criar o nosso primeiro commit usando o git commit
+Quando a gente está lidando com o terminal, a gente coloca sempre o nome do programa na frente;
+por isso que todo comando do Git leva a palavra git na frente e o comando específico do Git logo após (ex.: git init).
+
+Link para criar uma conta no GitHub: https://github.com/
+O GitHub, além de ser um repositório remoto onde a gente vai guardar o nosso código e trabalhar em equipe,
+é também, acima de tudo, uma rede social. 
